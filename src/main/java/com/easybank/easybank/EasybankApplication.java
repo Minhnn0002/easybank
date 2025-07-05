@@ -9,6 +9,4 @@ public class EasybankApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EasybankApplication.class, args);
 	}
-
-
 }
